@@ -24,4 +24,4 @@ Sou desenvolvedor Full Stack, especializado em criar soluções eficientes e bem
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italoaurelio&show_icons=true)
