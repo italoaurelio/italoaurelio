@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Full Stack, especializado em criar soluções eficientes e bem estruturadas, com foco na experiência do usuário. Tenho experiência com tecnologias como React, Tailwind, Node.js e PHP, além de atuar no desenvolvimento de interfaces modernas e sistemas integrados. Atualmente, estudo Engenharia da Computação no CEFET-MG e Desenvolvimento de Sistemas no Senai.
 
-🔭 O *Escalada para o Céu* é um sistema desenvolvido para facilitar a gestão de escalas litúrgicas e de ministérios em comunidades católicas. O projeto está sendo desenvolvido com React para o front-end, Node.js no back-end e utiliza Tailwind CSS para a estilização. Ele permite que coordenadores de movimentos organizem paróquias, ministérios e missas, gerenciem escalas de voluntários e aprovem novos usuários, proporcionando uma interface intuitiva e funcionalidades centralizadas para otimizar a organização das atividades..
+🔭 Atualmente estou trabalhando em um projeto sem fins lucrativos, *Escalada para o Céu*, que é um sistema desenvolvido para facilitar a gestão de escalas litúrgicas e de ministérios em comunidades católicas. O projeto está sendo desenvolvido com React para o front-end, Node.js no back-end e utiliza Tailwind CSS para a estilização. Ele permite que coordenadores de movimentos organizem paróquias, ministérios e missas, gerenciem escalas de voluntários e aprovem novos usuários, proporcionando uma interface intuitiva e funcionalidades centralizadas para otimizar a organização das atividades..
 
 💬 Para contatos, use o email *italoaurelio0@gmail.com*. Ou os links disponibilizados na bio.
 
